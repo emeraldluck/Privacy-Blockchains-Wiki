@@ -1,7 +1,5 @@
 #privacy blockchains
 
-# [https://docs.google.com/document/d/1-N4b5zY-L2O0J9qMlnmqllIU0fXePycR9Xhdj-Os7nI/edit](https://docs.google.com/document/d/1-N4b5zY-L2O0J9qMlnmqllIU0fXePycR9Xhdj-Os7nI/edit)
-
 - Current Vulnerabilities + Need for privacy
 
   Bitcoin Privacy Model: Pseudonymity As a Decoy
